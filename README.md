@@ -7,7 +7,7 @@ Right now I'm mostly in Python and computer vision, with hands-on electronics an
 ---
 
 #### 🔧 What I'm building
-**Drowsy Driver Alert System** — real-time eye tracking that warns a driver when they start to fall asleep. Python · OpenCV · MediaPipe (Eye Aspect Ratio), running on a Raspberry Pi with a hardware buzzer. *(in progress — repo coming soon)*
+**Drowsy Driver Alert System** — real-time eye tracking that warns a driver when they start to fall asleep. Python · OpenCV · MediaPipe (Eye Aspect Ratio), running on a Raspberry Pi with a hardware buzzer. https://github.com/soumyachhablani/Drowsiness-Detection-System
 
 #### 🌱 Currently learning
 Python · Computer-vision fundamentals · Git & GitHub
