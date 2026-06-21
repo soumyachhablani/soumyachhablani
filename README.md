@@ -20,7 +20,7 @@ Python · Computer-vision fundamentals · Git & GitHub
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 #### 📫 Connect
-[LinkedIn](www.linkedin.com/in/soumya-chhablani-1060a1240) · [Email](mailto:soumyachhablani@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/soumya-chhablani-1060a1240) · [Email](mailto:soumyachhablani@gmail.com)
 
 ---
 <sub>Always learning — more projects will land here as I build them.</sub>
